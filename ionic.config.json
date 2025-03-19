@@ -1,0 +1,7 @@
+{
+  "name": "futplay",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
